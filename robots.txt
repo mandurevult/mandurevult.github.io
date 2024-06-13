@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mandurevult.github.io/sitemap.html
+Sitemap: https://mandurevult.github.io/app/sitemap.html
+Sitemap: https://mandurevult.github.io/assets/sitemap.html
+Sitemap: https://mandurevult.github.io/css/sitemap.html
+Sitemap: https://mandurevult.github.io/includes/sitemap.html
+Sitemap: https://mandurevult.github.io/item/sitemap.html
+Sitemap: https://mandurevult.github.io/src/sitemap.html
